@@ -2,7 +2,7 @@
 
 It is my final project for training django graphene api provided via docs: https://github.com/AndrewPoletek/graphene_Python_1
 
-## Below i put a description problem
+## Below i put a problem description
 
 ### Title: Easy Warehouse System
 ### Description: 
