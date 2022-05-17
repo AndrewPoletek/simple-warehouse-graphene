@@ -1,7 +1,7 @@
 # Simple Warehouse Graphene
 
 It is my final project for training django graphene api provided via docs: https://github.com/AndrewPoletek/graphene_Python_1
-
+Django graphene docs: https://docs.graphene-python.org/projects/django/en/latest/
 ## Below i put a problem description
 
 ### Title: Easy Warehouse System
